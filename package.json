@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/whiteh/build_horn#readme",
   "dependencies": {
-    "botkit": "^0.5.4"
+    "botkit": "^0.5.4",
+    "play-sound": "^1.1.1"
   }
 }
