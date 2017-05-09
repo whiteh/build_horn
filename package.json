@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/whiteh/build_horn/issues"
   },
-  "homepage": "https://github.com/whiteh/build_horn#readme"
+  "homepage": "https://github.com/whiteh/build_horn#readme",
+  "dependencies": {
+    "botkit": "^0.5.4"
+  }
 }
